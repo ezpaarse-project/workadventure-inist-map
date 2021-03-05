@@ -139,7 +139,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playaudio",
+                 "name":"playAudio",
                  "type":"string",
                  "value":".\/resources\/sf_chasse_deau.mp3"
                 }],
