@@ -41,7 +41,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"..\/resources\/sf_chasse_deau.mp3"
+                 "value":".\/sf_chasse_deau.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -61,7 +61,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"..\/resources\/sf_ascenseur3.mp3"
+                 "value":".\/sf_ascenseur3.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
