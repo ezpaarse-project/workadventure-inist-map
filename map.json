@@ -219,7 +219,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudio",
+                 "name":"playAudioLoop",
                  "type":"string",
                  "value":".\/resources\/sf_ville_circulation.mp3"
                 }],
@@ -239,7 +239,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudio",
+                 "name":"playAudioLoop",
                  "type":"string",
                  "value":".\/resources\/sf_ville_circulation.mp3"
                 }],
