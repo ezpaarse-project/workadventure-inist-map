@@ -40,7 +40,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/map.json"
+                 "value":"..\/Ariane3\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
