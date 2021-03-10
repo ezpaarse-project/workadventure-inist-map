@@ -156,7 +156,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/Hermes2\/map.json"
+                 "value":"..\/Hermes3\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
